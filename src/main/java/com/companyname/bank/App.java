@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "hello new modf..modf from repo" );
+        System.out.println( "hello new modf..modf" );
     }
 }
