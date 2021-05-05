@@ -2,6 +2,6 @@ class hello
 {
   public static void main()
   {
-    system.out.println("hello from ..new changfrom..modify")
+    system.out.println("this change is from github webhook")
   }
 }
