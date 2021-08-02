@@ -2,6 +2,6 @@ class hello
 {
   public static void main()
   {
-    system.out.println("new chnage this change..another modify")
+    system.out.println("new chnage this change..another modify..hello")
   }
 }
