@@ -2,6 +2,6 @@ class hello
 {
   public static void main()
   {
-    system.out.println("new chnn")
+    system.out.println("new nn")
   }
 }
