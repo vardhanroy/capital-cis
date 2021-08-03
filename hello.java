@@ -2,6 +2,6 @@ class hello
 {
   public static void main()
   {
-    system.out.println("chnage on github")
+    system.out.println("github hook commit")
   }
 }
