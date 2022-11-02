@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new change on repo..poll scm ");
+        System.out.println( "new change on repo..from webhook ");
     }
 }
