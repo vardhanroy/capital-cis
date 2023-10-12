@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "new code change on the project");
+        System.out.println( "change to test poll scm");
     }
 }
