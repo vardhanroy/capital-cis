@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "code changes on repo..");
+        System.out.println( "new changes on the repo..");
     }
 }
