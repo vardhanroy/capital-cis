@@ -8,6 +8,6 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "code update in github");
+        System.out.println( "poll scm test commit");
     }
 }
